@@ -12,7 +12,7 @@ Cumrun Vafa was born in Tehran in 1960. He attended the prestigious Alborz High 
 
 [Professor Vafa, is the *Donner Professor of Science* at Harvard University](https://www.physics.harvard.edu/people/facpages/vafa) (he has since the time of this interview become the *Hollis Professor of Mathematics and Natural Philosophy*). He is one of the main initiators and one of the leaders of research in String Theory - one of the leading physics theories for describing the interactions and forces of nature.
 
-![Cumrun Vafa](https://www.aip.org/sites/default/files/2022-03/Vafa%20credit%20Brigitte%20Lacombe.jpg)){: width="972" height="589" .w-50 .right}
+![Cumrun Vafa](https://www.aip.org/sites/default/files/2022-03/Vafa%20credit%20Brigitte%20Lacombe.jpg){: width="972" height="589" .w-50 .right}
 
 ### When did you decide to become a physicist and why?
 
@@ -56,9 +56,9 @@ Over the past few years, there are more and more Iranians taking positions in th
 
 Well, I'm not sure if I'm recognized, or Nima (Arkani-Hamed) is recognized as being Iranian in the community. We are Iranian, but we’re not recognized so much for that. So unfortunately, one or two examples are just too little.
 
-![Cumrun Vafa](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/08/Cumrun_vafa_900x1200.jpg){: width="972" height="589" .w-50 .right}
-
 ### What do you think can be done about that?
+
+![Cumrun Vafa](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/08/Cumrun_vafa_900x1200.jpg){: width="972" height="589" .w-50 .left}
 
 Well, I can give you an idea what can be done, but I'm not sure if that's going to happen. Ideally what should happen is that there would be a more unified community of Iranians outside of Iran, in all areas, which would try and look after Iranian concerns; and be political or social or whatnot. Then, as a by-product, it would bring out the Iranians in all the different branches of science, art, or whatever. And basically to bring these people out to the Iranian community before even the international community; I don't think we're even known among our own community, let alone the bigger international community. The point is that we're too scattered and don't have a central community sense unfortunately. So I think the first step is to start from within ourselves, among Iranians, to get together more, make the effort and connect together, with the kind of things that you are doing, through newspapers, or websites.
 
