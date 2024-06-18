@@ -1,7 +1,8 @@
 ---
 title: "Interview with Harvard physicist Cumrun Vafa"
 date: 2024-02-03 15:00:00 -0200
-categories: [Science]
+categories: [Science, physics]
+pin : True
 tags: [physics, cumrun vafa, interview, shahrvand, immigration] 
 desription: In 2005 I had the immense pleasure of interviewing the eminent Iranian physicist Cumrun Vafa, of Harvard university, for Shahrvand English Magazine. Here follows a transcript of that interview. 
 image: 
