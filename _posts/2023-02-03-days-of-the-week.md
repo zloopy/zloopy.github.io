@@ -4,7 +4,7 @@ date: 2023-02-03 15:00:00 -0200
 categories: [Essay]
 tags: [iran, interesting, history, persian] 
 description: >-
-  When a non-Iranian friend of mine asked about how we name the days of the week in persin, i had to investigate!   
+  When a non-Iranian friend of mine asked about how we name the days of the week in persian, i had to investigate!   
 image: 
     path: ./assets/img/DSC_2541.jpg
     alt: Atocha Train Station in Madrid.
@@ -68,8 +68,3 @@ The **Romans**, for example, had a notion of the week, but it was not a seven-da
 
 ### Why seven?
 The final question then is, why seven days? The answer is simple and is in fact given in the first page of the Old Testament: God created the world in six days, and on the seventh day he rested, the Jewish Sabbath, or to Iranians, Shanbeh!
-
-
-float to left image : ![](./assets/img/){: width="972" height="589" .w-75 .left}
-
-
