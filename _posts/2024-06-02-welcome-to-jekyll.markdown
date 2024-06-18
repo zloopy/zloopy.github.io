@@ -7,6 +7,7 @@ tags: jekyll markdown
 author : Loopy
 math: true
 mermaid: true
+published: false
 excerpt_separator: <!--more-->
 featured_image : ./assets/img/2022-08-8.jpg
 image:
