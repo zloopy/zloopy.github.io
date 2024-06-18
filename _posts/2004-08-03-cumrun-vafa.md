@@ -3,9 +3,10 @@ title: "Interview with Harvard physicist Cumrun Vafa"
 date: 2024-02-03 15:00:00 -0200
 categories: [Science, physics]
 pin : True
+author : S Zayyani
 tags: [physics, cumrun vafa, interview, shahrvand, immigration] 
 description: >-
-    In 2005 I had the immense pleasure of interviewing the eminent Iranian physicist Cumrun Vafa, of Harvard university, for Shahrvand English Magazine. Here follows a transcript of that interview. 
+  In 2005 I had the immense pleasure of interviewing the eminent Iranian physicist Cumrun Vafa, of Harvard university, for Shahrvand English Magazine. Here follows a transcript of that interview. 
 image: 
     path: ./assets/img/2010-2.jpg
     alt: Looking down onto Geneva, switzerland from the top of Mount Saleve.
