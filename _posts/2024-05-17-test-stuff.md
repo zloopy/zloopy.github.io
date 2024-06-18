@@ -6,7 +6,6 @@ categories: blog
 tags: markdown jekyll
 author : Loopy
 excerpt : "Here is a nice short list of MD tests"
-pin: true
 math: true
 mermaid: true
 excerpt_separator: <!--more-->
@@ -20,11 +19,11 @@ This post is bascially a bunch of markdown syntax tests.
 
 <!--more-->
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text  balh blah blhab ablhalshblhasldkfjlaljfdkfjsl <br> another blah blah  |
-| text 2   | blah | huh???|
-|bamm     | boom | biim |
+| Column 1 | Column 2 | Column 3                                                                   |
+| -------- | -------- | -------------------------------------------------------------------------- |
+| Text     | Text     | Text  balh blah blhab ablhalshblhasldkfjlaljfdkfjsl <br> another blah blah |
+| text 2   | blah     | huh???                                                                     |
+| bamm     | boom     | biim                                                                       |
 
 - [ ] do this
 - [ ] do that
