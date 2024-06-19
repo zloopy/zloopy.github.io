@@ -8,6 +8,7 @@ author : Loopy
 excerpt : "Here is a nice short list of MD tests"
 math: true
 mermaid: true
+published: false
 excerpt_separator: <!--more-->
 image:
   path : ./assets/img/2022-08-19.jpg

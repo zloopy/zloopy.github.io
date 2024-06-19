@@ -13,6 +13,7 @@ image:
   path : ./assets/img/tilt-cuba3.jpg
   alt : Miniature Havana Cafe
 excerpt_separator: <!--more-->
+published: false
 ---
 # How to do things in order
 
