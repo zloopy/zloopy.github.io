@@ -34,6 +34,3 @@ As a teacher, as a scientist, or as anyone with any sense of reason or history, 
 I know I insist on it, and try and go into details about how we can apply this as much to something simple and evident as we can to something complex and cosmic. It is the pillar on which modern science is built, without which we're just keeping busy collecting stamps.
 
 And yet the more I think about it, the more I have to admit to myself, that should be the farthest thing from surprising, given all that I've seen in my years of being a teacher.
-
-
-
