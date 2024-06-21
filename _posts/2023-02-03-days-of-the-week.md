@@ -30,11 +30,9 @@ The story goes as such:
 - These five days were a period of festivity and celebration at the end of each year.  
 
 > Much like the name of the months, each day of the month had its own name. Twelve of the day-names were the same as the month-names. When the day-name and the month name corresponded would be a holiday and a day of celebration. 
-In fact two of the biggest celebrations of Old Iran were Mehregan and Tiragan. The former was  celebrated on 16th day of the month of Mehr, which was called Mehr-rooz; and the latter was celebrated on 4th day of the month of Tir, which was called Tir-rooz. 
-{: .prompt-info } 
+In fact two of the biggest celebrations of Old Iran were Mehregan and Tiragan. The former was  celebrated on 16th day of the month of Mehr, which was called Mehr-rooz; and the latter was celebrated on 4th day of the month of Tir, which was called Tir-rooz. {: .prompt-info } 
 
-> *When the day-name and the month name corresponded would be a holiday and a day of celebration.* 
-> {: .prompt-tip } 
+> *When the day-name and the month name corresponded would be a holiday and a day of celebration.* {: .prompt-tip }
 
 Not surprisingly, these names have their roots in *Zoroastrianism*. The Zoroastrians at the time used a ‘Mesopotamian Calendar’ which consisted of twelve months, with thirty days each (they would add a month every six years to get back in line with the solar calendar), and the beginning of the New Year always fell on the Spring Equinox. 
 
