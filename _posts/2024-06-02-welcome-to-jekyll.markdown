@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2024-06-02 12:46:46 +0200
 categories: blogging
 tags: jekyll markdown
-author : Loopy
+author : loopy
 math: true
 mermaid: true
 published: false
