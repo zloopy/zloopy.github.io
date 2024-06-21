@@ -16,10 +16,10 @@ timezone:
 
 title: In the Loop # the main title
 
-tagline: Writind and Photography as therapy. # it will display as the sub-title
+tagline: Writing and Photography as therapy. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Let's talk about stuff.
+  Writing and Photography by Shahriar Zayyani.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: googlea6d6fccf69ac0c2e # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
