@@ -1,6 +1,6 @@
 ---
 layout : page
 title : "Books"
-icon: fas fa-books
+icon: fa fa-books
 order: 5
 ---

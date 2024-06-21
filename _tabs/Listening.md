@@ -1,6 +1,6 @@
 ---
 layout : page
-title : "What I'm listening to"
+title : "I'm listenign to ..."
 icon: fas fa-headphones
 order: 6
 ---
