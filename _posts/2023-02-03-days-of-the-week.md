@@ -41,21 +41,20 @@ Not surprisingly, these names have their roots in *Zoroastrianism*. The Zoroastr
 During the 5th century B.C. – at the time of the **Achamaenians** – they decided to ‘personalize’ their calendar. The first month was named after the Guardian angel, six of the remaining months were named after the Archangels (the *Amesh Spentas*) and the remaining months were named after five of the angels (the *Yazatas*). The names were as follows: 
 
 
-
 | Pahlavi name | Modern name |
-| ------------ | ----------- |
-| Fravashis    | Farvardin   |
-| Ardwahisht   | Ordibehesht |
-| Hordad       | Khordad     |
-| Tir          | Tir         |
-| Amurdad      | (A)Mordad   |
-| Shahrewar    | Shahrivar   |
-| Mihr         | Mehr        |
-| Aban         | Aabaan      |
-| Adar         | Aazar       |
-| Dae          | Dey         |
-| Vohuman      | Bahman      |
-| Spandarmad   | Esfand      |
+| :----------: | :---------: |
+|  Fravashis   |  Farvardin  |
+|  Ardwahisht  | Ordibehesht |
+|    Hordad    |   Khordad   |
+|     Tir      |     Tir     |
+|   Amurdad    |  (A)Mordad  |
+|  Shahrewar   |  Shahrivar  |
+|     Mihr     |    Mehr     |
+|     Aban     |   Aabaan    |
+|     Adar     |    Aazar    |
+|     Dae      |     Dey     |
+|   Vohuman    |   Bahman    |
+|  Spandarmad  |   Esfand    |
 
 The **day-names** of the old calendar also came from the Yazatas, and were: *Ohrmazd*, *Bahman, Ordibehest, Shahrivar, Esfand, Khordaad, Amordaad, Dey-be-Aazar, Aazar, Abaan, Khor, Mah, Tir, Gosh, Dey-be-Mehr, Mehr, Soroush, Rashan, Farvardin, Bahraam, Raam, Baad, Dey-be-Din, Din, Arad, Ashtad, Asman, Zamyaad, Mahrespandaan, Aniraan.* 
 
