@@ -80,6 +80,9 @@ It is my hope that, when they grow up, they grow up in a way that would not alie
 For example after September 11th, the first reaction was the knee-jerk reaction, but the second reaction should have been ‘why has this happened’. Let's go to the cultural reasons or political reasons. Unfortunately those questions are never asked. Maybe, a week or two after it happened, it was beginning to get asked, but suddenly it gets suppressed amazingly. Some of the discussion got completely diverted to how do we protect our security and that was basically the end of the story. There were no further discussion about ‘are there any wrong politics that we are having?’ ‘is this the result of a coherent mistake in our policies’ or ‘whether we should do anything about that’. Nothing. And unfortunately the media played a very sad role: instead of encouraging deep questions, root-cause questions, they basically got side-tracked by whether the security level is orange, or blue, or whatever.
 
 ---
-(Shahriar Zayyani, ©copyright 2005).
+> Photo taken from the top of Mount Saleve on the border between France and Switzerland, lookign down onto Geneva. 
+{: .prompt-tip}
+---
+(Shahriar Zayyani, © copyright 2005).
 
 

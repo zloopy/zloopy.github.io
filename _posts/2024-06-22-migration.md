@@ -41,4 +41,4 @@ And so here we are, me messing around and more or less figuring my way aroudn th
 I think i'm goign to post on the various solutions i might find to my own problems, in case others who are in a similar situation might be able to take advantage of it as well. 
 
 > Photo taken from the 25th floor balcony of an apartment in uptown Toronto, on a cold wintery night.
-{: .prompt-info}
+{: .prompt-tip}
