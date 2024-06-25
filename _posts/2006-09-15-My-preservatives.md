@@ -1,5 +1,5 @@
 ---
-title: "My '*preservatives*'"
+title: "Tales from School : My '*preservatives*'"
 date: 2006-09-15 15:00:00 -0200
 categories: [school, story]
 tags: [funny, teacher life, physics]
