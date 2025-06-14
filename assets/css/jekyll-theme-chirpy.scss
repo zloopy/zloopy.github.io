@@ -2,9 +2,69 @@
 ---
 
 @import 'main
-{%- if jekyll.environment == 'production' -%}
+{%- if jekyll.environment == ' production
+  ' -%}
   .bundle
 {%- endif -%}
 ';
 
 /* append your custom style below */
+
+.styled-quote {
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 1em 0;
+  padding: 1em;
+  border-left: 3px solid #dfd9d9;
+  background-color: #47464657;
+  font-size: 1.5em;
+}
+
+.styled-quote p {
+  margin: 0;
+}
+
+.styled-quote cite {
+  font-style: normal;
+  display: block;
+  text-align: right;
+  font-size: 0.8em;
+  color: #999;
+}
+
+.archive {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.year-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.post-item {
+  flex: 1 1 calc(33.333% - 20px);
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.post-image {
+  width: 100%;
+  padding-bottom: 75%;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.post-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
