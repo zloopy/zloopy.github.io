@@ -8,7 +8,7 @@ tags: [physics, cumrun vafa, interview, shahrvand, immigration]
 description: >-
   In 2005 I had the immense pleasure of interviewing the eminent Iranian physicist Cumrun Vafa, of Harvard university, for Shahrvand English Magazine. Here follows a transcript of that interview. 
 image: 
-    path: ./assets/img/2010-2.jpg
+    path: /assets/img/2010-2.jpg
     alt: Looking down onto Geneva, switzerland from the top of Mount Saleve.
 ---
 Cumrun Vafa was born in Tehran in 1960. He attended the prestigious Alborz High School, before going to the US in 1977 as an undergraduate at MIT, where he got his bachelor’s degree in math and physics, as a double major. He then went on to Princeton University for graduate work, where he got his PhD in Physics, in 1985. He then became a junior fellow at Harvard, where he later got a junior faculty position. In 1989 he was offered a senior faculty position, and he has been there ever since. 

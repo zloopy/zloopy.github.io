@@ -6,7 +6,7 @@ tags: [iran, interesting, history, persian]
 description: >-
   When a non-Iranian friend of mine asked about how we name the days of the week in persian, i had to investigate!   
 image: 
-    path: ./assets/img/DSC_2541.jpg
+    path: /assets/img/DSC_2541.jpg
     alt: Atocha Train Station in Madrid.
 ---
 *(Originally published in Shahrvand English (N° 4) - **October 26, 2004**  )*

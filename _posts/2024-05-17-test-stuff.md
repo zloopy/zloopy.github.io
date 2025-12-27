@@ -11,7 +11,7 @@ mermaid: true
 published: false
 excerpt_separator: <!--more-->
 image:
-  path : ./assets/img/2022-08-19.jpg
+  path : /assets/img/2022-08-19.jpg
   alt : Old man walking
 ---
 # Here is the headign of this post

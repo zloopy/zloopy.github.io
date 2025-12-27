@@ -6,7 +6,7 @@ tags: [music,review, concert, bach, emotions]
 description: >-
    There are at times those moments in life which are as beautiful as they are rare, when you are truly *moved* by something.
 image: 
-    path: ./assets/img/2018-42.jpg
+    path: /assets/img/2018-42.jpg
     alt: University College, University of Toronto || f/4.5 || 1/15 || ISO800 || 10 mm || Nikon D7200 || 2018
 ---
 There are at times those moments in life which are as beautiful as they are rare, when you are truly *moved* by something.

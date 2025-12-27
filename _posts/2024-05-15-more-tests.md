@@ -8,9 +8,9 @@ author : Loopy
 excerpt : "Here is a brief workflow for setting up Jekyll"
 math: true
 mermaid: true
-featured_image : ./assets/img/tilt-cuba3.jpg
+featured_image : /assets/img/tilt-cuba3.jpg
 image:
-  path : ./assets/img/tilt-cuba3.jpg
+  path : /assets/img/tilt-cuba3.jpg
   alt : Miniature Havana Cafe
 excerpt_separator: <!--more-->
 published: false

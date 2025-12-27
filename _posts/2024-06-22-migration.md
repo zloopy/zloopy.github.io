@@ -7,7 +7,7 @@ tags: [jekyll, wordpress]
 description: >-
   So after many years of using wordpress, for some reason i've decided to move to Jekyll, an SSG. 
 image: 
-    path: ./assets/img/2015-58.jpg
+    path: /assets/img/2015-58.jpg
     alt:  Toronto || f/9 || 30s || ISO100 || 16 mm || Nikon D7000 || 2015 || by SZayyani
 ---
 ### A bit of history ... 

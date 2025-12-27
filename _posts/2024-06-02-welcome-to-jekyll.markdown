@@ -9,9 +9,9 @@ math: true
 mermaid: true
 published: false
 excerpt_separator: <!--more-->
-featured_image : ./assets/img/2022-08-8.jpg
+featured_image : /assets/img/2022-08-8.jpg
 image:
-  path : ./assets/img/2022-08-8.jpg
+  path : /assets/img/2022-08-8.jpg
   alt : Crossing
 ---
 This post is supposed to be an introduction to using Jekyll.

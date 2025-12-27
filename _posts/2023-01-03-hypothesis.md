@@ -6,7 +6,7 @@ tags: [school, students, fear, scientific method]
 description: >-
   During a class test, i noticed my students were all leaving an early question wherein they were to make a hypothesis blank. 
 image: 
-  path: ./assets/img/sz-2019-56.jpg
+  path: /assets/img/sz-2019-56.jpg
   alt: The Beach, Toronto Canada || f5.6 || 1/8 s || ISO800 || 10.0 mm || NIKON D7200
 ---
 My students in Terminale (*final year of high school here in France*) had a chemistry test today on acids and bases.
