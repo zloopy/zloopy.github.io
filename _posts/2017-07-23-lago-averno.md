@@ -5,9 +5,7 @@ categories: [Essay]
 tags: [essay, life, italy, ] 
 description: >-
    It was the penultimate day and we had just arrived at the Lago Averno, by a most tortuous and misguided of paths, dead tired and hungry, only to find the place utterly deserted.
-image: 
-    path: 
-    alt: 
+
 ---
 *(An excerpt from my Italy Travel Diary from this past summer (2007). It was the penultimate day and we had just arrived at the Lago Averno, by a most tortuous and misguided of paths, dead tired and hungry, only to find the place utterly deserted. We hopped a fence, and my two companions collapsed on the ground and fell asleep upset in the midday sun.)* 
 
