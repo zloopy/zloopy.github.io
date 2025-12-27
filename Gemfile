@@ -11,4 +11,14 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-default-layout'
+  gem 'jekyll-spaceship'
+  gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-admin'
+  gem "premonition", "4.0.1"
+end
+
+
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
